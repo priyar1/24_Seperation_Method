@@ -1,0 +1,2 @@
+# 24_Seperation_Method
+Seperation_Method_in_python
