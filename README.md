@@ -1,2 +1,2 @@
 # 24_Seperation_Method
-Seperation_Method_in_python
+Seperation methodworks when having a comma in between the string.
