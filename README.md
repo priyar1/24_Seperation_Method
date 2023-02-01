@@ -1,2 +1,2 @@
 # 24_Seperation_Method
-Seperation methodworks when having a comma in between the string.
+Seperation method works when having a comma in between the string.
